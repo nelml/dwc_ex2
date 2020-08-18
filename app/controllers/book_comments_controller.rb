@@ -7,5 +7,5 @@ class BookCommentsController < ApplicationController
   def destroy
 
   end
- 
+
 end
